@@ -11,7 +11,7 @@ but rather than bash script, it is made using python.
 
 ## Usage
 Tested on Windows, Ubuntu, Termux.\
-Clone this repo , go the the Fishymask folder & run the python script.
+Clone this repo , go to the Fishymask folder & run the python script.
 
 ```bash
  git clone https://github.com/iamjinx/fishymask.git
