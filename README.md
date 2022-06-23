@@ -6,7 +6,7 @@ This script is created for **Educational purposes only**.\
 Use Responsibly! Don't use it for illegal phishing activity or illegal things.\
 The Developer of the Script is not responsible for it.
 
-**Note** : This Script is inspired from https://github.com/jaykali/maskphish\
+**Note** : This Script is inspired from https://github.com/jaykali/maskphish \
 but rather than bash script, it is made using python.
 
 ## Usage
